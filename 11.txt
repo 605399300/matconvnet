@@ -1,0 +1,6 @@
+
+
+重名 ： 需要更改matlab下几个文件的名字（vl_nnconv1，vl_nnnormalize1，vl_nnpool1）
+
+然后编译，在matlab文件夹下会多出mex文件夹才对
+
